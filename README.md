@@ -1,6 +1,6 @@
 # cifrado
 
-Cifrado de Vernam en javascript
+Cifrado de Vernam en javascript: https://denshai.wordpress.com/2017/03/07/cifrado-de-vernam-en-javascript/
 
 Referencias:
 
